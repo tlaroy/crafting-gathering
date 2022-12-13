@@ -98,8 +98,8 @@
       "flags": {}
     }
   ],
-  "url": ,
-  "manifest": ,
+  "url": "https://github.com/tlaroy/crafting-gathering",
+  "manifest": "https://github.com/tlaroy/crafting-gathering/main/module.json",
   "download": ,
   "id": "crafting-gathering",
   "authors": [
@@ -113,6 +113,38 @@
       {
         "id": "dnd5e",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "advanced-macros",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "compendium-folders",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "gatherer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "itemcollection",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "mastercrafted",
+        "type": "module",
         "compatibility": {}
       }
     ]
