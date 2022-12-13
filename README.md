@@ -1,5 +1,5 @@
 # Crafting and Gathering
-Crafting and Gathering to DND 5e.
+Crafting and Gathering for DND 5e.
 
 Dependencies.
 * Foundry 10.291
