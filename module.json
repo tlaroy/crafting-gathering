@@ -8,7 +8,7 @@
   },
   "url": "https://github.com/tlaroy/crafting-gathering",
   "manifest": "https://github.com/tlaroy/crafting-gathering/main/module.json",
-  "download": "https://github.com/tlaroy/crafting-gathering/main/downloads/crafting-gathering-v0.12.zip"
+  "download": "https://github.com/tlaroy/crafting-gathering/main/downloads/crafting-gathering-v0.12.zip",
   "id": "crafting-gathering",
   "authors": [
     {
@@ -148,5 +148,5 @@
         "compatibility": {}
       }
     ]
-  },
+  }
 }
