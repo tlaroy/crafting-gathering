@@ -1,0 +1,120 @@
+{
+  "title": "Crafting and Gathering",
+  "description": "Adds Crafting and Gathering to DND 5e",
+  "version": "0.12",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "packs": [
+    {
+      "name": "Crafting Features",
+      "label": "Crafting Features",
+      "path": "packs/crafting-features.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Tools",
+      "label": "Crafting Tools",
+      "path": "packs/crafting-tools.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipe Books",
+      "label": "Crafting Recipe Books",
+      "path": "packs/crafting-recipe-books.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Ingredients",
+      "label": "Crafting Ingredients",
+      "path": "packs/crafting-ingredients.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipes",
+      "label": "Crafting Recipes",
+      "path": "packs/crafting-recipes.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Results",
+      "label": "Crafting Results",
+      "path": "packs/crafting-results.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Macros",
+      "label": "Crafting Macros",
+      "path": "packs/crafting-macros.db",
+      "type": "Macro",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Roll Tables",
+      "label": "Crafting Roll Tables",
+      "path": "packs/crafting-roll-tables.db",
+      "type": "RollTable",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Merchants",
+      "label": "Crafting Merchants",
+      "path": "packs/crafting-merchants.db",
+      "type": "Actor",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Journals",
+      "label": "Crafting Journals",
+      "path": "packs/crafting-journals.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": ,
+  "manifest": ,
+  "download": ,
+  "id": "crafting-gathering",
+  "authors": [
+    {
+      "name": "Nokturnal",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+}
