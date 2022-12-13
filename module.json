@@ -99,7 +99,7 @@
       "name": "Crafting Journals",
       "label": "Crafting Journals",
       "path": "packs/crafting-journals.db",
-      "type": "Item",
+      "type": "JournalEntry",
       "private": false,
       "system": "dnd5e",
       "flags": {}
