@@ -1,4 +1,4 @@
-# Crafting & Gathering Professions
+# Crafting & Gathering
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
