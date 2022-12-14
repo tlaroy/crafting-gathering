@@ -2,26 +2,26 @@
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
 
 System and Module Dependencies.
-• Foundry FVTT 10.291
-• DND5e System 2.0.3
-• Advanced Macros 1.18.1
-• Compendium Folders 2.5.6
-• Gatherer 1.4
-• Item Containers 10.0.4
-• Item Piles 2.3.7
-• Mastercrafted 1.5.3
+- Foundry FVTT 10.291
+- DND5e System 2.0.3
+- Advanced Macros 1.18.1
+- Compendium Folders 2.5.6
+- Gatherer 1.4
+- Item Containers 10.0.4
+- Item Piles 2.3.7
+- Mastercrafted 1.5.3
 
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 
 The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.
 
 NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.
-• Crafting Features (Professions)
-• Crafting Tools (SRD Supplements)
-• Crafting Recipe Books (Empty)
-• Crafting Ingredients
-• Crafting Recipes
-• Crafting Results
+- Crafting Features (Professions)
+- Crafting Tools (SRD Supplements)
+- Crafting Recipe Books (Empty)
+- Crafting Ingredients
+- Crafting Recipes
+- Crafting Results
 
 Features, Tools and Recipe Books are manually placed into a PC character sheet when a player acquires a Profession.  
 
@@ -30,10 +30,10 @@ Initial starting Ingredients, Recipes and Results can also be manually placed in
 For my campaign I added player owned “Crafting” containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to PC sheet inventories.  They’re really just extensions of the player character sheet inventories.
 
 Import these CRAFTING SYSTEM Compendiums into your world directories.
-• Crafting Macros
-• Crafting Roll Tables
-• Crafting Merchants (Actor)
-• Crafting Journals - Including a Crafting Guide.
+- Crafting Macros
+- Crafting Roll Tables
+- Crafting Merchants (Actor)
+- Crafting Journals - Including a Crafting Guide.
 
 ALWAYS import CRAFTING SYSTEM Compendiums with “Merge by name” and “Keep ID” checked.  Exports of CRAFTING SYSTEM Compendiums were done using “Export Folder Structure” with same options checked.
 
