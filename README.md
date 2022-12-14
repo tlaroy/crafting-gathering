@@ -52,7 +52,7 @@ The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a sp
 - Crafting Recipes
 - Crafting Results
 
-NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a PC character sheet.  Players  can acquire Ingredients, Recipes and Results from Merchants or by Gathering.
+NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a player character sheet.  Players can acquire Ingredients, Recipes and Results from Merchants or by Gathering.
 
 For my campaign I have player owned 'Crafting' containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to their character sheet inventories.  The 'Crafting' containers are really just extensions of the player character sheet inventories.
   
@@ -63,7 +63,7 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 - Crafting Merchants (Actor)
 - Crafting Journals - Including a Crafting Guide.
 
-Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with “Merge by name” and “Keep ID” checked.  Exports of CRAFTING SYSTEM Compendiums were done using “Export Folder Structure” with same options checked.
+Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
 ## Mastercrafted
 Import the Mastercrafted Recipe Book JSON files with Recipe Manager.  Then set player permissions for each Recipe.  Use Book permissions to control overall access by player.  Then use Recipe permissions to limit access to those Recipes that players have learned so far.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.
@@ -83,10 +83,10 @@ Mastercrafted and Gatherer both use Macros to roll ability checks with DC determ
 ## Referencing
 Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.
 
-FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as being “free”.  Little things.  CRAFTING SYSTEM Ingredients are not “free”.
+FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as 'free'.  Little things.  CRAFTING SYSTEM Ingredients are not 'free'.
 
 ## Ingredients
-Setting up Roll Tables for Gatherer lead to “Grouping” of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (50) herbs.  Result is (6) Ingredient Categories (Fish, Game, Herb, Ore, Toxin & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
+Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (50) herbs.  Result is (6) Ingredient Categories (Fish, Game, Herb, Ore, Toxin & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
 
 ## Merchants
 Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Recipe Merchants and Profession Merchants (i.e. those selling crafting related Results); all Merchants are linked to Roll Tables.
