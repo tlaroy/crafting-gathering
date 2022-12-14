@@ -48,11 +48,11 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 <h2>Macros</h2> 
 <p>Mastercrafted and Gatherer both use Macros to roll ability checks with DC determined by player level.</p>
 
-- Level 17-20	DC 12
-- Level 11-16	DC 11
-- Level 9-10	DC 10
-- Level 5-8		DC 9
-- Level 1-4		DC 8
+- Level 17-20 = DC 12
+- Level 11-16 = DC 11
+- Level 9-10  = DC 10
+- Level 5-8   = DC 9
+- Level 1-4   =	DC 8
 
 <h2>Referencing</h2> 
 <p>Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.</p>
