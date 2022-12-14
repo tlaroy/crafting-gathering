@@ -45,8 +45,10 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 <h2>Gatherer</h2> 
 <p>Uses customized Journal Pages and Roll Tables, both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays : )</p>
 
+<h2>Macros</h2> 
 <p>Mastercrafted and Gatherer both use Macros to roll ability checks with DC determined by player level.</p>
 
+<h2>Referencing</h2> 
 <p>Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.</p>
 
 <p>FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as being “free”.  Little things.  CRAFTING SYSTEM Ingredients are not “free” : )</p>
