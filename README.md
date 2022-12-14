@@ -2,7 +2,7 @@
 
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
 
-System and Module Dependencies.
+<h2>System and Module Dependencies.<h2>
 - Foundry FVTT 10.291
 - DND5e System 2.0.3
 - Advanced Macros 1.18.1
@@ -17,6 +17,8 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 <p>The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.</p>
 
 NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.
+  
+<h2>Item Compendiums</h2>
 - Crafting Features (Professions)
 - Crafting Tools (SRD Supplements)
 - Crafting Recipe Books (Empty)
@@ -31,6 +33,8 @@ NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World D
 <p>For my campaign I added player owned “Crafting” containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to PC sheet inventories.  They’re really just extensions of the player character sheet inventories.</p>
 
 Import these CRAFTING SYSTEM Compendiums into your world directories.
+  
+<h2>Macro, Roll Table, Actor and Journal Compendiums</h2>
 - Crafting Macros
 - Crafting Roll Tables
 - Crafting Merchants (Actor)
