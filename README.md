@@ -3,6 +3,7 @@
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
 
 <h2>System and Module Dependencies.<h2>
+
 - Foundry FVTT 10.291
 - DND5e System 2.0.3
 - Advanced Macros 1.18.1
