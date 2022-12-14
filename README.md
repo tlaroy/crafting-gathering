@@ -1,6 +1,32 @@
-# Crafting & Gathering
+# Crafting & Gathering Professions
 
-A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
+A CRAFTING SYSTEM for Foundry VTT and D&D 5e.
+
+## Crafting Professions
+
+- Alchemy
+- Apothecary
+- Brewer
+- Cooking
+- Enchanting
+- Engineering 
+- Inscription
+- Jewel Crafting
+- Leather Working
+- Poisoner
+- Smelting
+- Smith
+- Weaving
+- Wood Working
+
+## Gathering Professions
+
+- Fishing
+- Herbalism
+- Hunting
+- Logging
+- Mining
+- Toxicology
 
 ## System & Module Dependencies
 
@@ -65,35 +91,8 @@ Setting up Roll Tables for Gatherer lead to “Grouping” of ingredients so the
 ## Merchants
 Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Recipe Merchants and Profession Merchants (i.e. those selling crafting related Results); all Merchants are linked to Roll Tables.
 
-## Crafting Professions
-
-- Alchemy
-- Apothecary
-- Brewer
-- Cooking
-- Enchanting
-- Engineering 
-- Inscription
-- Jewel Crafting
-- Leather Working
-- Poisoner
-- Smelting (Mining)
-- Smith
-- Weaving
-- Wood Working
-
-## Gathering Professions
-
-- Fishing
-- Herbalism
-- Hunting
-- Logging
-- Mining
-- Toxicology (Poisoner)
-
 ## Hybrid Professions
-Poisoner and Mining are hybrids.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
-
+Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
 
 ## Design
 Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  The result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  High costs also gives players something to earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear Scenes too.
