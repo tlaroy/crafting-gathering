@@ -73,7 +73,6 @@ Poisoner and Mining are hybrids.  Poisoner, nominally a crafting profession, gat
 Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  The result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  High costs also gives players something earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear Scenes too.
 
 ## Credits
-Mastercrafter and Gatherer are modules created by TheRipper93.
-https://theripper93.com/#/
+Mastercrafter and Gatherer are modules created by TheRipper93 https://theripper93.com/#/
 
 <i>Nokturnel 12/13/2022</i>
