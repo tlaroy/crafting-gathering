@@ -21,14 +21,14 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 
 - Crafting Features (Professions)
 - Crafting Tools (SRD Supplements)
-- Crafting Recipe Books (Empty)
+- Crafting Recipe Books (Empty Containers)
 - Crafting Ingredients
 - Crafting Recipes
 - Crafting Results
 
-<p>NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a PC character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a PC character sheet.  PC’s can acquire Ingredients, Recipes and Results from Merchants or by Gathering.</p>
+<p>NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a PC character sheet.  Players  can acquire Ingredients, Recipes and Results from Merchants or by Gathering.</p>
 
-<p>For my campaign I added player owned “Crafting” containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to PC sheet inventories.  They’re really just extensions of the player character sheet inventories.</p>
+<p>For my campaign I have player owned 'Crafting' containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to thier character sheet inventories.  The 'Crafting' containers are really just extensions of the player character sheet inventories.</p>
   
 <h2>Macro, Roll Table, Actor and Journal Compendiums</h2>
 
@@ -37,13 +37,13 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 - Crafting Merchants (Actor)
 - Crafting Journals - Including a Crafting Guide.
 
-<p>Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>ALWAYS!</b> import CRAFTING SYSTEM Compendiums with “Merge by name” and “Keep ID” checked.  Exports of CRAFTING SYSTEM Compendiums were done using “Export Folder Structure” with same options checked.</p>
+<p>Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with “Merge by name” and “Keep ID” checked.  Exports of CRAFTING SYSTEM Compendiums were done using “Export Folder Structure” with same options checked.</p>
 
 <h2>Mastercrafted</h2> 
 <p>Import the Mastercrafted Recipe Book JSON files with Recipe Manager.  Then set player permissions for each Recipe.  Use Book permissions to control overall access by player.  Then use Recipe permissions to limit access to those Recipes that players have learned so far.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.</p>
 
 <h2>Gatherer</h2> 
-<p>Uses customized Journal Pages and Roll Tables, both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays : )</p>
+<p>Uses customized Journal Pages and Roll Tables, both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays.</p>
 
 <h2>Macros</h2> 
 <p>Mastercrafted and Gatherer both use Macros to roll ability checks with DC determined by player level.</p>
