@@ -30,7 +30,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e.
 
 ## System & Module Dependencies
 
-- Foundry FVTT 10.291
+- Foundry VTT 10.291
 - DND5e System 2.0.3
 - Advanced Macros 1.18.1
 - Compendium Folders 2.5.6
