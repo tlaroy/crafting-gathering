@@ -1,7 +1,7 @@
 <h1>Crafting and Gathering</h1>
 <br>
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
-<br>
+
 System and Module Dependencies.
 - Foundry FVTT 10.291
 - DND5e System 2.0.3
@@ -11,7 +11,7 @@ System and Module Dependencies.
 - Item Containers 10.0.4
 - Item Piles 2.3.7
 - Mastercrafted 1.5.3
-<br>
+
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 <br>
 <p>The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.</p>
