@@ -65,29 +65,31 @@ Setting up Roll Tables for Gatherer lead to “Grouping” of ingredients so the
 ## Merchants
 Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Recipe Merchants and Profession Merchants (i.e. those selling crafting related Results); all Merchants are linked to Roll Tables.
 
-# Professions
+## Crafting Professions
+
 - Alchemy
 - Apothecary
 - Brewer
 - Cooking
 - Enchanting
 - Engineering 
-- Fishing
-- Herbalism
-- Hunting
 - Inscription
 - Jewel Crafting
 - Leather Working
-- Logging
-- Mining
 - Poisoner
 - Smelting (Mining)
 - Smith
-- Toxicology (Poisoner)
 - Weaving
 - Wood Working
 
-![image](https://user-images.githubusercontent.com/3021932/207486933-e0c0f825-836f-4bd4-8b3a-051e3bb1fe98.png)
+## Gathering Professions
+
+- Fishing
+- Herbalism
+- Hunting
+- Logging
+- Mining
+- Toxicology (Poisoner)
 
 ## Hybrid Professions
 Poisoner and Mining are hybrids.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
