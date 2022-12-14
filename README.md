@@ -2,7 +2,7 @@
 
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
 
-<h2>System and Module Dependencies.<h2>
+<h2>System and Module Dependencies.</h2>
 
 - Foundry FVTT 10.291
 - DND5e System 2.0.3
@@ -20,6 +20,7 @@ Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gatheri
 NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.
   
 <h2>Item Compendiums</h2>
+
 - Crafting Features (Professions)
 - Crafting Tools (SRD Supplements)
 - Crafting Recipe Books (Empty)
@@ -36,6 +37,7 @@ NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World D
 Import these CRAFTING SYSTEM Compendiums into your world directories.
   
 <h2>Macro, Roll Table, Actor and Journal Compendiums</h2>
+
 - Crafting Macros
 - Crafting Roll Tables
 - Crafting Merchants (Actor)
