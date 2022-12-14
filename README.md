@@ -97,14 +97,14 @@ Ingredient Merchants are also organized by Category and Rarity and they’re lin
 Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
 
 ## Design Considerations
-Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  One result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  Gives players something to earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear in Scenes too.
+Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  One result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  And it gives players something to earn and spend their gold on.  My intended usage for my campaign is primarily for downtime activities.  However a random resource node may occasionally appear in some Scenes too.
 
-Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes provide value and rarity so they can be purchased from Merchants.  They also provide convenient player viewing in their Recipe Books.
+Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes provide value and rarity so they can be purchased from Merchants.  They also provide convenient player viewing in their Recipe Books.  Merchants and CRAFTING SYSTEM Recipes are optional.
 
 ## Credits
 Modules created by TheRipper93 - https://theripper93.com/#/
 
-- Mastercrafter https://wiki.theripper93.com/premium/mastercrafted 
+- Mastercrafted https://wiki.theripper93.com/premium/mastercrafted 
 - Gatherer https://wiki.theripper93.com/premium/gatherer
 
 <i>Nokturnel 12/13/2022</i>
