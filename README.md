@@ -66,7 +66,7 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
 ## Mastercrafted
-Import the Mastercrafted Recipe Book JSON files with Recipe Manager.  Then set player permissions for each Recipe.  Use Book permissions to control overall access by player.  Then use Recipe permissions to limit access to those Recipes that players have learned so far.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.
+Import the Mastercrafted Recipe Book JSON files from the zip file using Mastercrafted's Recipe Manager.  The zip file is in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.
 
 ## Gatherer
 Uses customized Journal Pages and Roll Tables, both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays.
@@ -94,8 +94,10 @@ Ingredient Merchants are also organized by Category and Rarity and they’re lin
 ## Hybrid Professions
 Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
 
-## Design
-Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  The result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  High costs also gives players something to earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear Scenes too.
+## Design Considerations
+Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  One result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  Gives players something to earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear in Scenes too.
+
+Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes have value and rarity. They can be purchased from Merchants and provide convenient player viewing.
 
 ## Credits
 Modules created by TheRipper93 - https://theripper93.com/#/
