@@ -39,6 +39,8 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e.
 - Item Piles 2.3.7
 - Mastercrafted 1.5.3
 
+## Installation
+
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 
 The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip file of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.
@@ -66,10 +68,10 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
 ## Mastercrafted
-Import the Mastercrafted Recipe Book JSON files from the zip file using Mastercrafted's Recipe Manager.  The zip file is in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.
+Import the Mastercrafted Recipe Book JSON files from the zip file using Mastercrafted's Recipe Manager.  The zip file is in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.
 
 ## Gatherer
-Uses customized Journal Pages and Roll Tables, both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays.
+Gatherer uses customized Journal Pages and Roll Tables both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays.
 
 ## Macros
 Mastercrafted and Gatherer both use Macros to roll ability checks with DC determined by player level.
@@ -97,7 +99,7 @@ Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting prof
 ## Design Considerations
 Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  One result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  Gives players something to earn and spend their gold on.  Intended usage is primarily for downtime activities.  However a random resource node may occasionally appear in Scenes too.
 
-Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes have value and rarity. They can be purchased from Merchants and provide convenient player viewing.
+Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes provide value and rarity so they can be purchased from Merchants.  They also provide convenient player viewing in their Recipe Books.
 
 ## Credits
 Modules created by TheRipper93 - https://theripper93.com/#/
