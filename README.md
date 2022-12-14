@@ -41,7 +41,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e.
 
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 
-The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.
+The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip file of all the Mastercrafted export JSON files.  Look in your Data\modules\crafting-gathering folder.
 
 ## Item Compendiums
 
