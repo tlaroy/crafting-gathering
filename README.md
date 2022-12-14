@@ -1,4 +1,4 @@
-<h1>Crafting and Gathering</h1>
+<h1>Crafting & Gathering</h1>
 
 A CRAFTING SYSTEM for Foundry FVTT and D&D 5e.
 
