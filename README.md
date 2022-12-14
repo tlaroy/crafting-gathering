@@ -67,6 +67,9 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 
 Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
+## Crafting Guide
+The crafting journal <b>Crafting Guide</b> has all the details explaining each profession, their recipes, ingredients, costs and more.
+
 ## Mastercrafted
 Import the Mastercrafted Recipe Book JSON files from the zip file using Mastercrafted's Recipe Manager.  The zip file is in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.
 
