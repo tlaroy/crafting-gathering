@@ -50,11 +50,12 @@ The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a sp
 - Crafting Features (Professions)
 - Crafting Tools (SRD Supplements)
 - Crafting Recipe Books (Empty Containers)
+- Crafting Traing Certs
 - Crafting Ingredients
 - Crafting Recipes
 - Crafting Results
 
-NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a player character sheet.  Players can acquire Ingredients, Recipes and Results from Merchants or by Gathering.
+NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a player character sheet.  Players can acquire Training Certs, Ingredients, Recipes and Results from Merchants or by Gathering.
 
 For my campaign I have player owned 'Crafting' containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to their character sheet inventories.  The 'Crafting' containers are really just extensions of the player character sheet inventories.
   
