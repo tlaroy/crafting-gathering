@@ -66,8 +66,6 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 - Crafting Merchants
 - Crafting Journals
 
-Crafting Journals includes a <b>Crafting Guide</b>
-
 Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
 ## Crafting Guide
