@@ -19,7 +19,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Weaving ( 3 Recipes )
 - Wood Working ( 18 Recipes )
 
-## ( 7 ) Gathering Professions ( 112 Types )
+## ( 7 ) Gathering Professions ( 112 ) Types
 
 - Cloth ( 4 Cloths )
 - Fishing ( 1 Fish )
