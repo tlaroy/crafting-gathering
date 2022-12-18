@@ -38,7 +38,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Gatherer 1.4
 - Item Containers 10.0.4
 - Item Piles 2.3.7
-- Mastercrafted 1.5.3
+- Mastercrafted 1.6
 
 ## Installation
 
