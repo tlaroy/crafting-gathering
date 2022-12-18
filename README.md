@@ -49,8 +49,7 @@ The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a sp
 
 - Crafting Features (Professions)
 - Crafting Tools (SRD Supplements)
-- Crafting Recipe Books (Empty Containers)
-- Crafting Training Certs
+- Crafting Training
 - Crafting Ingredients
 - Crafting Recipes
 - Crafting Results
@@ -92,7 +91,7 @@ Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients 
 FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as 'free'.  Little things.  CRAFTING SYSTEM Ingredients are not 'free'.
 
 ## Ingredients
-Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (50) herbs.  Result is (6) Ingredient Categories (Fish, Game, Herb, Ore, Toxin & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
+Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (50) herbs.  Result is (7) Ingredient Categories (Cloth, Fish, Game, Herbs, Ore, Toxins & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
 
 ## Merchants
 Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Recipe Merchants and Profession Merchants (i.e. those selling crafting related Results); all Merchants are linked to Roll Tables.

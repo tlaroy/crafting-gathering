@@ -33,9 +33,9 @@
       "flags": {}
     },
     {
-      "name": "Crafting Recipe Books",
-      "label": "Crafting Recipe Books",
-      "path": "packs/crafting-recipe-books.db",
+      "name": "Crafting Training",
+      "label": "Crafting Training",
+      "path": "packs/crafting-training.db",
       "type": "Item",
       "private": false,
       "system": "dnd5e",
