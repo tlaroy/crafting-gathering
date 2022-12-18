@@ -2,7 +2,7 @@
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
-## Crafting Professions
+## (14) Crafting Professions
 
 - Alchemy
 - Apothecary
@@ -19,8 +19,9 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Weaving
 - Wood Working
 
-## Gathering Professions
+## (7) Gathering Professions
 
+- Cloth
 - Fishing
 - Herbalism
 - Hunting
@@ -47,14 +48,14 @@ The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a sp
 
 ## Item Compendiums
 
-- Crafting Features (Professions)
-- Crafting Tools (SRD Supplements)
+- Crafting Features
+- Crafting Tools
 - Crafting Training
 - Crafting Ingredients
 - Crafting Recipes
 - Crafting Results
 
-NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features, Tools and Recipe Books are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients, Recipes and Results can also be manually placed into a player character sheet.  Players can acquire Training, Ingredients, Recipes and Results from Merchants or by Gathering.
+NONE of the CRAFTING SYSTEM Item Compendiums need to be imported to your World Directories.  Features and Tools are manually placed into a player character sheet when a player acquires a Profession.  Initial starting Ingredients and Results can also be manually placed into a player character sheet.  Players can acquire Training, Ingredients, Recipes and Results from Merchants or by Gathering.
 
 For my campaign I have player owned 'Crafting' containers in the Item Directory.  Players can put all their crafting ingredients, recipe books and tools in them instead of loading up their character sheet inventories with items that they’d very unlikely be dragging around with them all the time.  When it’s time to do crafting the necessary tools and ingredients are transferred to their character sheet inventories.  The 'Crafting' containers are really just extensions of the player character sheet inventories.
   
@@ -62,8 +63,10 @@ For my campaign I have player owned 'Crafting' containers in the Item Directory.
 
 - Crafting Macros
 - Crafting Roll Tables
-- Crafting Merchants (Actor)
-- Crafting Journals - Including a <b>Crafting Guide</b>
+- Crafting Merchants
+- Crafting Journals
+
+Crafting Journals includes a <b>Crafting Guide</b>
 
 Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORTANT - ALWAYS!</b> import CRAFTING SYSTEM Compendiums with 'Merge by name' and 'Keep ID' checked.  Exports of CRAFTING SYSTEM Compendiums were done using 'Export Folder Structure' with same options checked.
 
