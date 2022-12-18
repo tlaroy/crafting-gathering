@@ -2,32 +2,32 @@
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
-## (14) Crafting Professions with (237) Recipes
+## ( 14 ) Crafting Professions with ( 237 ) Recipes
 
-- Alchemy (40 Recipes)
-- Apothecary (8 Recipes)
-- Brewer (0 Recipes) 
-- Cooking (0 Recipes)
-- Enchanting (59 Recipes)
-- Engineering (1 Recipe)
-- Inscription (10 Recipes)
-- Jewel Crafting (17 Recipes)
-- Leather Working (4 Recipes)
-- Poisoner (20 Recipes)
-- Smelting (13 Recipes)
-- Smith (44 Recipes)
-- Weaving (3 Recipes)
-- Wood Working (18 Recipes)
+- Alchemy ( 40 Recipes )
+- Apothecary ( 8 Recipes )
+- Brewer ( 0 Recipes ) 
+- Cooking ( 0 Recipes )
+- Enchanting ( 59 Recipes )
+- Engineering ( 1 Recipe )
+- Inscription ( 10 Recipes )
+- Jewel Crafting ( 17 Recipes )
+- Leather Working ( 4 Recipes )
+- Poisoner ( 20 Recipes )
+- Smelting ( 13 Recipes )
+- Smith ( 44 Recipes )
+- Weaving ( 3 Recipes )
+- Wood Working ( 18 Recipes )
 
-## (7) Gathering Professions (112 Types)
+## ( 7 ) Gathering Professions ( 112 Types )
 
-- Cloth (4 Cloths)
-- Fishing (1 Fish)
-- Herbalism (52 Herbs)
-- Hunting (9 Game)
-- Logging (22 Wood)
-- Mining (10 Ores)
-- Toxicology (14 Toxins)
+- Cloth ( 4 Cloths )
+- Fishing ( 1 Fish )
+- Herbalism ( 52 Herbs )
+- Hunting ( 9 Game )
+- Logging ( 22 Wood )
+- Mining ( 10 Ores )
+- Toxicology ( 14 Toxins )
 
 ## System & Module Dependencies
 
@@ -82,9 +82,9 @@ Mastercrafted and Gatherer both use Macros to roll ability checks with DC determ
 
 - Level 17-20 = DC 12
 - Level 11-16 = DC 11
-- Level 9-10  = DC 10
-- Level 5-8   = DC 9
-- Level 1-4   =	DC 8
+- Level 9-10 = DC 10
+- Level 5-8 = DC 9
+- Level 1-4 = DC 8
 
 ## Referencing
 Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.
