@@ -143,6 +143,11 @@
         "id": "mastercrafted",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },

@@ -19,9 +19,9 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Weaving ( 3 Recipes )
 - Wood Working ( 18 Recipes )
 
-## ( 7 ) Gathering Professions ( 112 ) Types
+## ( 7 ) Gathering Professions ( 113 ) Types
 
-- Cloth ( 4 Cloths )
+- Cloth ( 5 Cloths )
 - Fishing ( 1 Fish )
 - Herbalism ( 52 Herbs )
 - Hunting ( 9 Game )
@@ -35,10 +35,11 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - DND5e System 2.0.3
 - Advanced Macros 1.18.1
 - Compendium Folders 2.5.6
+- Dynamic effects using Active Effects (DAE) 10.0.14
 - Gatherer 1.4
-- Item Containers 10.0.4
-- Item Piles 2.3.7
-- Mastercrafted 1.6
+- Item Containers 10.0.5
+- Item Piles 2.3.11
+- Mastercrafted 1.6 
 
 ## Installation
 
