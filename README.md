@@ -2,31 +2,38 @@
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
-## ( 14 ) Crafting Professions with ( 237 ) Recipes
+## ( 22 ) Crafting Professions with ( 342 ) Recipes
 
-- Alchemy ( 40 Recipes )
-- Apothecary ( 8 Recipes )
-- Brewer ( 0 Recipes ) 
-- Cooking ( 0 Recipes )
+- Alchemy ( 45 Recipes )
+- Apothecary ( 10 Recipes )
+- Brewer ( 0 Recipes )
+- Calligrapher ( 0 Recipes )
+- Carpenter ( 0 Recipes )
+- Cartographer ( 0 Recipes )
+- Cobbler ( 0 Recipes )
+- Cooking ( 1 Recipes )
 - Enchanting ( 59 Recipes )
-- Engineering ( 1 Recipe )
-- Inscription ( 10 Recipes )
-- Jewel Crafting ( 17 Recipes )
-- Leather Working ( 4 Recipes )
+- Glassblower ( 7 Recipes )
+- Inscription ( 17 Recipes )
+- Jewel Crafting ( 23 Recipes )
+- Leather Working ( 9 Recipes )
+- Mason ( 0 Recipes )
+- Painter ( 0 Recipes )
 - Poisoner ( 20 Recipes )
-- Smelting ( 13 Recipes )
-- Smith ( 44 Recipes )
-- Weaving ( 3 Recipes )
-- Wood Working ( 18 Recipes )
+- Smelting ( 24 Recipes )
+- Smith ( 60 Recipes )
+- Tinker ( 15 Recipes )
+- Weaving ( 15 Recipes )
+- Wood Working ( 37 Recipes )
 
-## ( 7 ) Gathering Professions ( 113 ) Types
+## ( 7 ) Gathering Professions ( 137 ) Types
 
-- Cloth ( 5 Cloths )
+- Cloth ( 9 Cloths )
 - Fishing ( 1 Fish )
-- Herbalism ( 52 Herbs )
-- Hunting ( 9 Game )
-- Logging ( 22 Wood )
-- Mining ( 10 Ores )
+- Herbalism ( 57 Herbs )
+- Hunting ( 13 Game )
+- Logging ( 23 Wood )
+- Mining ( 20 Ores )
 - Toxicology ( 14 Toxins )
 
 ## System & Module Dependencies
@@ -93,10 +100,10 @@ Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients 
 FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as 'free'.  Little things.  CRAFTING SYSTEM Ingredients are not 'free'.
 
 ## Ingredients
-Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (50) herbs.  Result is (7) Ingredient Categories (Cloth, Fish, Game, Herbs, Ore, Toxins & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
+Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (60) herbs.  Result is (7) Ingredient Categories (Cloth, Fish, Game, Herbs, Ore, Toxins & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
 
 ## Merchants
-Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Recipe Merchants and Profession Merchants (i.e. those selling crafting related Results); all Merchants are linked to Roll Tables.
+Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Profession Merchants.
 
 ## Hybrid Professions
 Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
