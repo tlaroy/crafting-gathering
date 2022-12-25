@@ -2,29 +2,29 @@
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
-## ( 22 ) Crafting Professions with ( 342 ) Recipes
+## ( 22 ) Crafting Professions with ( 321 ) Recipes
 
 - Alchemy ( 45 Recipes )
-- Apothecary ( 10 Recipes )
+- Apothecary ( 7 Recipes )
 - Brewer ( 0 Recipes )
 - Calligrapher ( 0 Recipes )
 - Carpenter ( 0 Recipes )
 - Cartographer ( 0 Recipes )
 - Cobbler ( 0 Recipes )
 - Cooking ( 1 Recipes )
-- Enchanting ( 59 Recipes )
+- Enchanting ( 49 Recipes )
 - Glassblower ( 7 Recipes )
 - Inscription ( 17 Recipes )
 - Jewel Crafting ( 23 Recipes )
 - Leather Working ( 9 Recipes )
 - Mason ( 0 Recipes )
 - Painter ( 0 Recipes )
-- Poisoner ( 20 Recipes )
+- Poisoner ( 16 Recipes )
 - Smelting ( 24 Recipes )
 - Smith ( 60 Recipes )
 - Tinker ( 15 Recipes )
-- Weaving ( 15 Recipes )
-- Wood Working ( 37 Recipes )
+- Weaving ( 14 Recipes )
+- Wood Working ( 36 Recipes )
 
 ## ( 7 ) Gathering Professions ( 137 ) Types
 
@@ -34,7 +34,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Hunting ( 13 Game )
 - Logging ( 23 Wood )
 - Mining ( 20 Ores )
-- Toxicology ( 14 Toxins )
+- Toxicology ( 10 Toxins )
 
 ## System & Module Dependencies
 

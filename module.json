@@ -103,6 +103,186 @@
       "private": false,
       "system": "dnd5e",
       "flags": {}
+    },
+    {
+      "name": "Crafting Ingredients IDROTF",
+      "label": "Crafting Ingredients (IDROTF)",
+      "path": "packs/crafting-ingredients-idrotf.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipes IDROTF",
+      "label": "Crafting Recipes (IDROTF)",
+      "path": "packs/crafting-recipes-idrotf.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Results IDROTF",
+      "label": "Crafting Results (IDROTF)",
+      "path": "packs/crafting-results-idrotf.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Roll Tables IDROTF",
+      "label": "Crafting Roll Tables (IDROTF)",
+      "path": "packs/crafting-roll-tables-idrotf.db",
+      "type": "RollTable",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Journals IDROTF",
+      "label": "Crafting Journals (IDROTF)",
+      "path": "packs/crafting-journals-idrotf.db",
+      "type": "JournalEntry",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Ingredients IMR",
+      "label": "Crafting Ingredients (IMR)",
+      "path": "packs/crafting-ingredients-imr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipes IMR",
+      "label": "Crafting Recipes (IMR)",
+      "path": "packs/crafting-recipes-imr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Results IMR",
+      "label": "Crafting Results (IMR)",
+      "path": "packs/crafting-results-imr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Roll Tables IMR",
+      "label": "Crafting Roll Tables (IMR)",
+      "path": "packs/crafting-roll-tables-imr.db",
+      "type": "RollTable",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Journals IMR",
+      "label": "Crafting Journals (IMR)",
+      "path": "packs/crafting-journals-imr.db",
+      "type": "JournalEntry",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Ingredients OOTA",
+      "label": "Crafting Ingredients (OOTA)",
+      "path": "packs/crafting-ingredients-oota.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipes OOTA",
+      "label": "Crafting Recipes (OOTA)",
+      "path": "packs/crafting-recipes-oota.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Results OOTA",
+      "label": "Crafting Results (OOTA)",
+      "path": "packs/crafting-results-oota.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Roll Tables OOTA",
+      "label": "Crafting Roll Tables (OOTA)",
+      "path": "packs/crafting-roll-tables-oota.db",
+      "type": "RollTable",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Journals OOTA",
+      "label": "Crafting Journals (OOTA)",
+      "path": "packs/crafting-journals-oota.db",
+      "type": "JournalEntry",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Ingredients VRGTR",
+      "label": "Crafting Ingredients (VRGTR)",
+      "path": "packs/crafting-ingredients-vrgtr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Recipes VRGTR",
+      "label": "Crafting Recipes (VRGTR)",
+      "path": "packs/crafting-recipes-vrgtr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Results VRGTR",
+      "label": "Crafting Results (VRGTR)",
+      "path": "packs/crafting-results-vrgtr.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Roll Tables VRGTR",
+      "label": "Crafting Roll Tables (VRGTR)",
+      "path": "packs/crafting-roll-tables-vrgtr.db",
+      "type": "RollTable",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "Crafting Journals VRGTR",
+      "label": "Crafting Journals (VRGTR)",
+      "path": "packs/crafting-journals-vrgtr.db",
+      "type": "JournalEntry",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "relationships": {
