@@ -94,6 +94,12 @@ Mastercrafted and Gatherer both use Macros to roll ability checks with DC determ
 - Level 5-8 = DC 9
 - Level 1-4 = DC 8
 
+- Level 17-20 = DC 12
+- Level 11-16 = DC 11
+- Level 6-10 = DC 10
+- Level 4-5 = DC 9
+- Level 1-3 = DC 8
+
 ## Referencing
 Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.
 
