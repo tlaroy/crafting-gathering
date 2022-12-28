@@ -90,14 +90,6 @@ Mastercrafted and Gatherer both use Macros to roll ability checks with DC determ
 
 - Level 17-20 = DC 12
 - Level 11-16 = DC 11
-- Level 9-10 = DC 10
-- Level 5-8 = DC 9
-- Level 1-4 = DC 8
-
-What it should be ..
-
-- Level 17-20 = DC 12
-- Level 11-16 = DC 11
 - Level 6-10 = DC 10
 - Level 4-5 = DC 9
 - Level 1-3 = DC 8
