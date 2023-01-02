@@ -2,7 +2,7 @@
 
 A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
-## ( 22 ) Crafting Professions with ( 321 ) Recipes
+## ( 22 ) Crafting Professions with ( 317 ) Recipes
 
 - Alchemy ( 45 Recipes )
 - Apothecary ( 7 Recipes )
@@ -12,10 +12,10 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Cartographer ( 0 Recipes )
 - Cobbler ( 0 Recipes )
 - Cooking ( 1 Recipes )
-- Enchanting ( 49 Recipes )
+- Enchanting ( 38 Recipes )
 - Glassblower ( 7 Recipes )
 - Inscription ( 17 Recipes )
-- Jewel Crafting ( 23 Recipes )
+- Jewel Crafting ( 15 Recipes )
 - Leather Working ( 9 Recipes )
 - Mason ( 0 Recipes )
 - Painter ( 0 Recipes )
@@ -24,17 +24,17 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Smith ( 60 Recipes )
 - Tinker ( 15 Recipes )
 - Weaving ( 14 Recipes )
-- Wood Working ( 36 Recipes )
+- Wood Working ( 37 Recipes )
 
-## ( 7 ) Gathering Professions ( 137 ) Types
+## ( 7 ) Gathering Professions ( 253 ) Ingredients
 
-- Cloth ( 9 Cloths )
+- Cloth ( 48 Cloths )
 - Fishing ( 1 Fish )
-- Herbalism ( 57 Herbs )
-- Hunting ( 13 Game )
+- Herbalism ( 53 Herbs )
+- Hunting ( 20 Game )
 - Logging ( 23 Wood )
 - Mining ( 20 Ores )
-- Toxicology ( 10 Toxins )
+- Toxicology ( 17 Toxins )
 
 ## System & Module Dependencies
 
@@ -52,7 +52,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 
-The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and a zip file of all the Mastercrafted Recipe Book export JSON files.  Look in your Data\modules\crafting-gathering folder.
+The module installs all the CRAFTING SYSTEM Compendiums.  It also downloads a spreadsheet design reference and Mastercrafted Recipe Book export JSON files.  Look in your Data\modules\crafting-gathering folder.
 
 ## Item Compendiums
 
@@ -80,7 +80,7 @@ Import these CRAFTING SYSTEM Compendiums into your world directories.  <b>IMPORT
 The crafting journal <b>Crafting Guide</b> has all the details explaining each profession, their recipes, ingredients, costs and more.
 
 ## Mastercrafted
-Import the Mastercrafted Recipe Book JSON files from the zip file using Mastercrafted's Recipe Manager.  The zip file is in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.
+Import the Mastercrafted Recipe Book JSON files using Mastercrafted's Recipe Manager.  The files are in your Data\modules\crafting-gathering\exports folder.  Use Recipe Book permissions to limit overall access to only players who 'know' the profession.  Then default Recipe permissions for those that each player has learned so far; deny for those unlearned.
 
 ## Gatherer
 Gatherer uses customized Journal Pages and Roll Tables both access controlled by standard FVTT methods.  A Gatherer Journal Page can be dropped on Scenes and it becomes a resource node, i.e. a Warcraft mining node.  And the page can be used directly for downtown activities.  Players get X rolls per Y workdays.
@@ -95,23 +95,11 @@ Mastercrafted and Gatherer both use Macros to roll ability checks with DC determ
 - Level 1-3 = DC 8
 
 ## Referencing
-Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used.
-
-FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients.  Many FVTT SRD Items lack price, rarity or weight.  Consequently there are CRAFTING SYSTEM Items which supersede FVTT SRD Items.  CRAFTING SYSTEM Items will end up in circulation from Crafting, Gathering, purchase from Merchants, looting corpses and discovery of loot boxes all ending up in player inventories.  Mixing superseded FVTT SRD and CRAFTING SYSTEM Items should be avoided.  Nothing “breaks” per say.  Mastercrafted and Gatherer still work.  However some FVTT SRD Items when sold to a Merchant from a player’s inventory with no price are interpreted as 'free'.  Little things.  CRAFTING SYSTEM Ingredients are not 'free'.
-
-## Ingredients
-Setting up Roll Tables for Gatherer lead to 'Grouping' of ingredients so the odds of getting what you’re looking for are more reasonable than a random roll on a table of (60) herbs.  Result is (7) Ingredient Categories (Cloth, Fish, Game, Herbs, Ore, Toxins & Wood) with (5) Rarities (Common, Uncommon, Rare, Very Rare & Legendary) each.
+Mastercrafted Recipes, Gatherer and CRAFTING SYSTEM Recipes all use Ingredients and Results - ONLY - from CRAFTING SYSTEM compendiums - OR - the FVTT SRD compendiums.  Only core FVTT icons have been used. 
+FVTT SRD Items were used for Results and miscellaneous items such as parchment, ink, etc. whenever possible.  The SRD is rather weak on Ingredients. 
 
 ## Merchants
-Ingredient Merchants are also organized by Category and Rarity and they’re linked to the same Roll Tables used by Gatherer.  Roll Tables are also provided for Profession Merchants.
-
-## Hybrid Professions
-Poisoner and Mining are hybrid professions.  Poisoner, nominally a crafting profession, gathers toxins to make poisons.  Mining, nominally a gathering profession, crafts metals from ore.  Rather than mashing them together Poisoner includes Toxicology and Mining includes Smelting.
-
-## Design Considerations
-Primary requirement was to stay within D&D 5e Rules As Written (RAW) as defined by the Standard Reference Document (SRD).  One result is high-end item costs which seem excessive.  High costs can be balanced with an appropriate in-game economy.  And it gives players something to earn and spend their gold on.  My intended usage for my campaign is primarily for downtime activities.  However a random resource node may occasionally appear in some Scenes too.
-
-Mastercrafted Recipes exist in parallel to CRAFTING SYSTEM Recipes.  There are no automatic linkages between Mastercrafted Recipes and CRAFTING SYSTEM Recipes.  CRAFTING SYSTEM Recipes provide value and rarity so they can be purchased from Merchants.  They also provide convenient player viewing in their Recipe Books.  Merchants and CRAFTING SYSTEM Recipes are optional.
+All Merchants are linked to  Roll Tables.  Gatherer uses the same Roll Tables as Ingredient Merchants.
 
 ## Credits
 Modules created by TheRipper93 - https://theripper93.com/#/
@@ -119,4 +107,4 @@ Modules created by TheRipper93 - https://theripper93.com/#/
 - Mastercrafted https://wiki.theripper93.com/premium/mastercrafted 
 - Gatherer https://wiki.theripper93.com/premium/gatherer
 
-<i>Nokturnel 12/13/2022</i>
+<i>Nokturnel</i>
