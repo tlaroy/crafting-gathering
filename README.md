@@ -48,7 +48,7 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 - Item Piles 2.3.11
 - Mastercrafted 1.6 
 
-## Installation
+## Installation Instructions
 
 Installation Manifest: https://raw.githubusercontent.com/tlaroy/crafting-gathering/main/module.json 
 
