@@ -38,15 +38,15 @@ A CRAFTING SYSTEM for Foundry VTT and D&D 5e
 
 ## System & Module Dependencies
 
-- Foundry VTT 10.291
-- DND5e System 2.0.3
-- Advanced Macros 1.18.1
-- Compendium Folders 2.5.6
-- Dynamic effects using Active Effects (DAE) 10.0.14
-- Gatherer 1.4
-- Item Containers 10.0.5
-- Item Piles 2.3.11
-- Mastercrafted 1.6 
+- Foundry VTT 11.309
+- DND5e System 2.3.1
+- Advanced Macros 1.19.6 (10)
+- Compendium Folders 2.6.1 (11.298) no longer needed after v10 migration.
+- Dynamic effects using Active Effects (DAE) 11.0.17 (11.308)
+- Gatherer 1.4 (10)
+- Item Containers 11.0.3 (11.308)
+- Item Piles 2.7.13
+- Mastercrafted 1.7.2 (10)
 
 ## Installation Instructions
 
