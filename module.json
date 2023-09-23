@@ -11,332 +11,440 @@
   "version": "1.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.291"
+    "verified": "11.309"
   },
   "packs": [
     {
       "name": "Crafting Features",
       "label": "Crafting Features",
-      "path": "packs/crafting-features.db",
+      "path": "packs/crafting-features",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Tools",
       "label": "Crafting Tools",
-      "path": "packs/crafting-tools.db",
+      "path": "packs/crafting-tools",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Training",
       "label": "Crafting Training",
-      "path": "packs/crafting-training.db",
+      "path": "packs/crafting-training",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Ingredients",
       "label": "Crafting Ingredients",
-      "path": "packs/crafting-ingredients.db",
+      "path": "packs/crafting-ingredients",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes",
       "label": "Crafting Recipes",
-      "path": "packs/crafting-recipes.db",
+      "path": "packs/crafting-recipes",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results",
       "label": "Crafting Results",
-      "path": "packs/crafting-results.db",
+      "path": "packs/crafting-results",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Macros",
       "label": "Crafting Macros",
-      "path": "packs/crafting-macros.db",
+      "path": "packs/crafting-macros",
       "type": "Macro",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables",
       "label": "Crafting Roll Tables",
-      "path": "packs/crafting-roll-tables.db",
+      "path": "packs/crafting-roll-tables",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Merchants",
       "label": "Crafting Merchants",
-      "path": "packs/crafting-merchants.db",
+      "path": "packs/crafting-merchants",
       "type": "Actor",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals",
       "label": "Crafting Journals",
-      "path": "packs/crafting-journals.db",
+      "path": "packs/crafting-journals",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes FTOD",
       "label": "Crafting Recipes (FTOD)",
-      "path": "packs/crafting-recipes-ftod.db",
+      "path": "packs/crafting-recipes-ftod",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results FTOD",
       "label": "Crafting Results (FTOD)",
-      "path": "packs/crafting-results-ftod.db",
+      "path": "packs/crafting-results-ftod",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables FTOD",
       "label": "Crafting Roll Tables (FTOD)",
-      "path": "packs/crafting-roll-tables-ftod.db",
+      "path": "packs/crafting-roll-tables-ftod",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals FTOD",
       "label": "Crafting Journals (FTOD)",
-      "path": "packs/crafting-journals-ftod.db",
+      "path": "packs/crafting-journals-ftod",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes IDROTF",
       "label": "Crafting Recipes (IDROTF)",
-      "path": "packs/crafting-recipes-idrotf.db",
+      "path": "packs/crafting-recipes-idrotf",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results IDROTF",
       "label": "Crafting Results (IDROTF)",
-      "path": "packs/crafting-results-idrotf.db",
+      "path": "packs/crafting-results-idrotf",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables IDROTF",
       "label": "Crafting Roll Tables (IDROTF)",
-      "path": "packs/crafting-roll-tables-idrotf.db",
+      "path": "packs/crafting-roll-tables-idrotf",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals IDROTF",
       "label": "Crafting Journals (IDROTF)",
-      "path": "packs/crafting-journals-idrotf.db",
+      "path": "packs/crafting-journals-idrotf",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Ingredients IMR",
       "label": "Crafting Ingredients (IMR)",
-      "path": "packs/crafting-ingredients-imr.db",
+      "path": "packs/crafting-ingredients-imr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes IMR",
       "label": "Crafting Recipes (IMR)",
-      "path": "packs/crafting-recipes-imr.db",
+      "path": "packs/crafting-recipes-imr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results IMR",
       "label": "Crafting Results (IMR)",
-      "path": "packs/crafting-results-imr.db",
+      "path": "packs/crafting-results-imr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables IMR",
       "label": "Crafting Roll Tables (IMR)",
-      "path": "packs/crafting-roll-tables-imr.db",
+      "path": "packs/crafting-roll-tables-imr",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals IMR",
       "label": "Crafting Journals (IMR)",
-      "path": "packs/crafting-journals-imr.db",
+      "path": "packs/crafting-journals-imr",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes OOTA",
       "label": "Crafting Recipes (OOTA)",
-      "path": "packs/crafting-recipes-oota.db",
+      "path": "packs/crafting-recipes-oota",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results OOTA",
       "label": "Crafting Results (OOTA)",
-      "path": "packs/crafting-results-oota.db",
+      "path": "packs/crafting-results-oota",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables OOTA",
       "label": "Crafting Roll Tables (OOTA)",
-      "path": "packs/crafting-roll-tables-oota.db",
+      "path": "packs/crafting-roll-tables-oota",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals OOTA",
       "label": "Crafting Journals (OOTA)",
-      "path": "packs/crafting-journals-oota.db",
+      "path": "packs/crafting-journals-oota",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Ingredients VRGTR",
       "label": "Crafting Ingredients (VRGTR)",
-      "path": "packs/crafting-ingredients-vrgtr.db",
+      "path": "packs/crafting-ingredients-vrgtr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes VRGTR",
       "label": "Crafting Recipes (VRGTR)",
-      "path": "packs/crafting-recipes-vrgtr.db",
+      "path": "packs/crafting-recipes-vrgtr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results VRGTR",
       "label": "Crafting Results (VRGTR)",
-      "path": "packs/crafting-results-vrgtr.db",
+      "path": "packs/crafting-results-vrgtr",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables VRGTR",
       "label": "Crafting Roll Tables (VRGTR)",
-      "path": "packs/crafting-roll-tables-vrgtr.db",
+      "path": "packs/crafting-roll-tables-vrgtr",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals VRGTR",
       "label": "Crafting Journals (VRGTR)",
-      "path": "packs/crafting-journals-vrgtr.db",
+      "path": "packs/crafting-journals-vrgtr",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Recipes XGTE",
       "label": "Crafting Recipes (XGTE)",
-      "path": "packs/crafting-recipes-xgte.db",
+      "path": "packs/crafting-recipes-xgte",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Results XGTE",
       "label": "Crafting Results (XGTE)",
-      "path": "packs/crafting-results-xgte.db",
+      "path": "packs/crafting-results-xgte",
       "type": "Item",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Roll Tables XGTE",
       "label": "Crafting Roll Tables (XGTE)",
-      "path": "packs/crafting-roll-tables-xgte.db",
+      "path": "packs/crafting-roll-tables-xgte",
       "type": "RollTable",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "Crafting Journals XGTE",
       "label": "Crafting Journals (XGTE)",
-      "path": "packs/crafting-journals-xgte.db",
+      "path": "packs/crafting-journals-xgte",
       "type": "JournalEntry",
-      "private": false,
       "system": "dnd5e",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "relationships": {
@@ -347,14 +455,9 @@
         "compatibility": {}
       }
     ],
-    "requires": [
+    "x-requires": [
       {
         "id": "advanced-macros",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "compendium-folders",
         "type": "module",
         "compatibility": {}
       },
@@ -380,6 +483,11 @@
       },
       {
         "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "compendium-folders",
         "type": "module",
         "compatibility": {}
       }
